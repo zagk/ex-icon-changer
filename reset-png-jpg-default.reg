@@ -1,0 +1,14 @@
+Windows Registry Editor Version 5.00
+
+; png / jpg 연결을 손대기 전(기본 앱) 상태로 되돌립니다.
+; - UserChoice를 원래 ProgID + 원래 Hash로 복원
+; - HKCU에 만든 아이콘 오버라이드는 이미 삭제된 상태이므로 건드리지 않음
+; - 관리자 권한 불필요 (HKCU만 수정). 더블클릭 > 예 > 확인 후 탐색기 재시작.
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.png\UserChoice]
+"ProgId"="pngfile"
+"Hash"="jM3x4wc4PM0="
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\.jpg\UserChoice]
+"ProgId"="jpegfile"
+"Hash"="5+rDBfX7eQg="

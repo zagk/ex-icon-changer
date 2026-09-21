@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <AssemblyName>ex-icon-changer</AssemblyName>
+    <RootNamespace>ExIconChanger</RootNamespace>
+    <Version>1.0.0</Version>
+    <Description>확장자별 아이콘 변경 프로그램</Description>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,14 @@
+C:\Users\zagk\Desktop\coding\ex-icon-changer\bin\Release\net10.0-windows\win-x64\ex-icon-changer.exe
+C:\Users\zagk\Desktop\coding\ex-icon-changer\bin\Release\net10.0-windows\win-x64\ex-icon-changer.deps.json
+C:\Users\zagk\Desktop\coding\ex-icon-changer\bin\Release\net10.0-windows\win-x64\ex-icon-changer.runtimeconfig.json
+C:\Users\zagk\Desktop\coding\ex-icon-changer\bin\Release\net10.0-windows\win-x64\ex-icon-changer.dll
+C:\Users\zagk\Desktop\coding\ex-icon-changer\bin\Release\net10.0-windows\win-x64\ex-icon-changer.pdb
+C:\Users\zagk\Desktop\coding\ex-icon-changer\obj\Release\net10.0-windows\win-x64\ex-icon-changer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zagk\Desktop\coding\ex-icon-changer\obj\Release\net10.0-windows\win-x64\ex-icon-changer.AssemblyInfoInputs.cache
+C:\Users\zagk\Desktop\coding\ex-icon-changer\obj\Release\net10.0-windows\win-x64\ex-icon-changer.AssemblyInfo.cs
+C:\Users\zagk\Desktop\coding\ex-icon-changer\obj\Release\net10.0-windows\win-x64\ex-icon-changer.csproj.CoreCompileInputs.cache
+C:\Users\zagk\Desktop\coding\ex-icon-changer\obj\Release\net10.0-windows\win-x64\ex-icon-changer.dll
+C:\Users\zagk\Desktop\coding\ex-icon-changer\obj\Release\net10.0-windows\win-x64\refint\ex-icon-changer.dll
+C:\Users\zagk\Desktop\coding\ex-icon-changer\obj\Release\net10.0-windows\win-x64\ex-icon-changer.pdb
+C:\Users\zagk\Desktop\coding\ex-icon-changer\obj\Release\net10.0-windows\win-x64\ex-icon-changer.genruntimeconfig.cache
+C:\Users\zagk\Desktop\coding\ex-icon-changer\obj\Release\net10.0-windows\win-x64\ref\ex-icon-changer.dll
